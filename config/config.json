@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "learn",
+    "password": "learn",
+    "database": "nodeapi",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "learn",
+    "password": "learn",
+    "database": "nodeapi",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "learn",
+    "password": "learn",
+    "database": "nodeapi",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
