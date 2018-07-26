@@ -5,7 +5,6 @@ module.exports = {
   index(req, res) {
     return Classroom
       .findAll({
-        attributes: ['id']
         include: [{
           model: Student,
           as: 'students'
